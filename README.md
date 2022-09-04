@@ -19,7 +19,7 @@ the program has 2 general pages as the plants shopping list and the page with th
 
 ابزارها و تکنولوژی های استفاده شده: <br />
  <div dir="ltr" />
-Mainly Used tools:<br />
+Mainly Used tools: <br />
  
 - JetPack Compose
 - Kotlin Coroutines
@@ -35,7 +35,7 @@ Mainly Used tools:<br />
 کد در مرحله آلفا قرار دارد و فعلا Dependency Injection نشده است<br />
  <div dir="ltr" />
 The coding process is in alpha level thus it aint dependency injected.
-
-Ui Design is retreived from:
+<br />
+Ui Design retreived from:
 
 https://dribbble.com/shots/15362803-Plant-Shop-App/attachments/7124316?mode=media
