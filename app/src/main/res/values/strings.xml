@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Plants-Compose-Practice</string>
+    <string name="home_screen">Home</string>
+    <string name="offer_screen">Offers</string>
+    <string name="shopping_cart">Shopping</string>
+    <string name="favorites">Favorites</string>
+</resources>
