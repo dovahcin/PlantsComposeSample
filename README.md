@@ -8,7 +8,12 @@ My First Sample App Practicing JetPack Compose<br />
 
 ### Description
 Project is mainly developed to be working with new JetPack Compose tools and functions
-the program has 2 general pages as the plants shopping list and the page with the detailed view for checking the specific number of ordering plants with dummy local data supposed to fake the network response
+the program has 2 general pages as the plants shopping list and the page with the detailed 
+view for checking the specific number of ordering plants with dummy local data supposed to
+ fake the network response
+<br />
+<br />
+Any thoughts are welcome!<br />
 
 ## فیچر ها
 ## Features 
