@@ -1,7 +1,6 @@
 # PlantsComposeSample
 
-اولین نمونه ی پروژه ی سمپل برای کار با JetPack Compose
-
+My First Sample App Practicing JetPack Compose<br />
 ### توضیحات
 پروژه ی ایجاد شده به صورت آفلاین برای تمرکز بیشتر روی ساخت ui با jetpack compose
 دارای دو صفحه ی لیست کلی و جزئیات خرید گیاه موردنظر با قابلیت انتخاب تعداد سفارش
@@ -18,9 +17,10 @@ the program has 2 general pages as the plants shopping list and the page with th
 - Home Tab
 - Purchase Screen
 
-ابزارها و تکنولوژی های استفاده شده:
-Mainly Used tools:
-
+ابزارها و تکنولوژی های استفاده شده: <br />
+ <div dir="ltr" />
+Mainly Used tools:<br />
+ 
 - JetPack Compose
 - Kotlin Coroutines
 - Mvvm
@@ -32,5 +32,6 @@ Mainly Used tools:
 ![Screenshot 2022-09-05 004946](https://user-images.githubusercontent.com/74027887/188332086-f69f1514-062d-4439-9090-0e23d383cf51.png)
 
 
-کد در مرحله آلفا قرار دارد و فعلا Dependency Injection نشده است
-The coding process is in alpha level thus it aint dependency injected
+کد در مرحله آلفا قرار دارد و فعلا Dependency Injection نشده است<br />
+ <div dir="ltr" />
+The coding process is in alpha level thus it aint dependency injected.
