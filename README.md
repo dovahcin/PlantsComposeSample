@@ -35,3 +35,7 @@ Mainly Used tools:<br />
 کد در مرحله آلفا قرار دارد و فعلا Dependency Injection نشده است<br />
  <div dir="ltr" />
 The coding process is in alpha level thus it aint dependency injected.
+
+Ui Design is retreived from:
+
+https://dribbble.com/shots/15362803-Plant-Shop-App/attachments/7124316?mode=media
